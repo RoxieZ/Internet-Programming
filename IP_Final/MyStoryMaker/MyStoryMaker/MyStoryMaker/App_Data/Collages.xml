@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<collages>
+  <collage>
+    <id>0</id>
+    <collageName>Defult Collage</collageName>
+    <story>
+      <id>0</id>
+      <storyCaption>Harry Potter</storyCaption>
+      <storyTime>2</storyTime>
+      <storyOrder>1</storyOrder>
+      <block>
+        <id>0</id>
+        <blockCaption>Harry Potter and the Philosopher's Stone</blockCaption>
+        <blockContent>The first book in the Harry Potter series, Harry Potter and the Philosopher's Stone </blockContent>
+        <bolckOrder>1</bolckOrder>
+        <imgPath>0_0.jpg</imgPath>
+      </block>
+      <block>
+        <id>1</id>
+        <blockCaption>Harry Potter and the Chamber of Secrets</blockCaption>
+        <blockContent>New places visited: Whomping Willow, The Burrow, Knockturn Alley</blockContent>
+        <bolckOrder>2</bolckOrder>
+        <imgPath>0_1.jpg</imgPath>
+      </block>
+      <block>
+        <id>2</id>
+        <blockCaption>Harry Potter and the Prisoner of Azkaban</blockCaption>
+        <blockContent>New places visited: Hogsmeade, Shrieking Shack</blockContent>
+        <bolckOrder>3</bolckOrder>
+        <imgPath>0_2.jpg</imgPath>
+      </block>
+      <block>
+        <id>3</id>
+        <blockCaption>Harry Potter and the Goblet of Fire</blockCaption>
+        <blockContent>Defence Against the Dark Arts teacher: Alastor "Mad-Eye" Moody</blockContent>
+        <bolckOrder>4</bolckOrder>
+        <imgPath>0_3.jpg</imgPath>
+      </block>
+      <block>
+        <id>4</id>
+        <blockCaption>Harry Potter and the Order of the Phoenix</blockCaption>
+        <blockContent>Defence Against the Dark Arts teacher: Dolores Umbridge</blockContent>
+        <bolckOrder>5</bolckOrder>
+        <imgPath>0_4.jpg</imgPath>
+      </block>
+      <block>
+        <id>5</id>
+        <blockCaption>Harry Potter and the Half-Blood Prince</blockCaption>
+        <blockContent>Defence Against the Dark Arts teacher: Severus Snape</blockContent>
+        <bolckOrder>6</bolckOrder>
+        <imgPath>0_5.jpg</imgPath>
+      </block>
+      <block>
+        <id>6</id>
+        <blockCaption>Harry Potter and the Deathly Hallows</blockCaption>
+        <blockContent>Defence Against the Dark Arts teacher: Amycus Carrow</blockContent>
+        <bolckOrder>7</bolckOrder>
+        <imgPath>0_6.jpg</imgPath>
+      </block>
+    </story>
+    <story>
+      <id>1</id>
+      <storyCaption>Twilight</storyCaption>
+      <storyTime>2</storyTime>
+      <storyOrder>2</storyOrder>
+      <block>
+        <id>7</id>
+        <blockCaption>Twilight</blockCaption>
+        <blockContent> Isabella "Bella" Swan moves to Forks, a small town near the Washington coast, to live with her father</blockContent>
+        <bolckOrder>1</bolckOrder>
+        <imgPath>1_7.jpg</imgPath>
+      </block>
+      <block>
+        <id>8</id>
+        <blockCaption>New Moon</blockCaption>
+        <blockContent>Something about Jacob becoming a werewolf and stuff. </blockContent>
+        <bolckOrder>2</bolckOrder>
+        <imgPath>1_8.jpg</imgPath>
+      </block>
+      <block>
+        <id>9</id>
+        <blockCaption>Eclipse</blockCaption>
+        <blockContent>The story begins with the revelation that Seattle, Washington is being plagued by a string of murders</blockContent>
+        <bolckOrder>3</bolckOrder>
+        <imgPath>1_9.jpg</imgPath>
+      </block>
+      <block>
+        <id>10</id>
+        <blockCaption>Breaking Dawn</blockCaption>
+        <blockContent>Something about the wedding and the baby.</blockContent>
+        <bolckOrder>4</bolckOrder>
+        <imgPath>1_10.jpg</imgPath>
+      </block>
+    </story>
+    <story>
+      <id>2</id>
+      <storyCaption>Old memeries</storyCaption>
+      <storyTime>2</storyTime>
+      <storyOrder>3</storyOrder>
+      <block>
+        <id>11</id>
+        <blockCaption>When I was little</blockCaption>
+        <blockContent>Good days</blockContent>
+        <bolckOrder>1</bolckOrder>
+        <imgPath>2_11.jpg</imgPath>
+      </block>
+      <block>
+        <id>12</id>
+        <blockCaption>At college</blockCaption>
+        <blockContent>lol</blockContent>
+        <bolckOrder>3</bolckOrder>
+        <imgPath>2_12.JPG</imgPath>
+      </block>
+      <block>
+        <id>13</id>
+        <blockCaption>Friends</blockCaption>
+        <blockContent>Miss them</blockContent>
+        <bolckOrder>2</bolckOrder>
+        <imgPath>2_13.jpg</imgPath>
+      </block>
+    </story>
+    <story>
+      <id>3</id>
+      <storyCaption>Trip to NYC</storyCaption>
+      <storyTime>2</storyTime>
+      <storyOrder>4</storyOrder>
+      <block>
+        <id>14</id>
+        <blockCaption>Nice day</blockCaption>
+        <blockContent>A lot of fun</blockContent>
+        <bolckOrder>1</bolckOrder>
+        <imgPath>3_14.JPG</imgPath>
+      </block>
+      <block>
+        <id>15</id>
+        <blockCaption>Something about musical</blockCaption>
+        <blockContent>Love them!</blockContent>
+        <bolckOrder>2</bolckOrder>
+        <imgPath>3_15.PNG</imgPath>
+      </block>
+      <block>
+        <id>16</id>
+        <blockCaption>Other Places</blockCaption>
+        <blockContent>Fun</blockContent>
+        <bolckOrder>3</bolckOrder>
+        <imgPath>3_16.JPG</imgPath>
+      </block>
+      <block>
+        <id>30</id>
+        <blockCaption>2014</blockCaption>
+        <blockContent>Again</blockContent>
+        <bolckOrder>5</bolckOrder>
+        <imgPath>3_30.jpg</imgPath>
+      </block>
+    </story>
+    <story>
+      <id>4</id>
+      <storyCaption>Florida!</storyCaption>
+      <storyTime>3</storyTime>
+      <storyOrder>5</storyOrder>
+      <block>
+        <id>17</id>
+        <blockCaption>Day 1</blockCaption>
+        <blockContent>Hot</blockContent>
+        <bolckOrder>1</bolckOrder>
+        <imgPath>4_17.jpg</imgPath>
+      </block>
+      <block>
+        <id>18</id>
+        <blockCaption>Day 2</blockCaption>
+        <blockContent>Rocket!</blockContent>
+        <bolckOrder>2</bolckOrder>
+        <imgPath>4_18.jpg</imgPath>
+      </block>
+      <block>
+        <id>19</id>
+        <blockCaption>Day 3</blockCaption>
+        <blockContent>Ocean!</blockContent>
+        <bolckOrder>3</bolckOrder>
+        <imgPath>4_19.JPG</imgPath>
+      </block>
+      <block>
+        <id>20</id>
+        <blockCaption>Day 5</blockCaption>
+        <blockContent>Everglade !</blockContent>
+        <bolckOrder>5</bolckOrder>
+        <imgPath>4_20.jpg</imgPath>
+      </block>
+      <block>
+        <id>21</id>
+        <blockCaption>Day 4</blockCaption>
+        <blockContent>Key west!</blockContent>
+        <bolckOrder>4</bolckOrder>
+        <imgPath>4_21.JPG</imgPath>
+      </block>
+      <block>
+        <id>31</id>
+        <blockCaption>Fun stuff</blockCaption>
+        <blockContent>lalala</blockContent>
+        <bolckOrder>6</bolckOrder>
+        <imgPath>4_31.JPG</imgPath>
+      </block>
+    </story>
+    <story>
+      <id>5</id>
+      <storyCaption>Family</storyCaption>
+      <storyTime>2</storyTime>
+      <storyOrder>0</storyOrder>
+      <block>
+        <id>22</id>
+        <blockCaption>xoxo</blockCaption>
+        <blockContent>xoxoxoxoxo</blockContent>
+        <bolckOrder>1</bolckOrder>
+        <imgPath>5_22.JPG</imgPath>
+      </block>
+      <block>
+        <id>23</id>
+        <blockCaption>^_^</blockCaption>
+        <blockContent>lololololol</blockContent>
+        <bolckOrder>2</bolckOrder>
+        <imgPath>5_23.jpg</imgPath>
+      </block>
+      <block>
+        <id>24</id>
+        <blockCaption>chouchou</blockCaption>
+        <blockContent>hahahahahaha</blockContent>
+        <bolckOrder>3</bolckOrder>
+        <imgPath>5_24.jpg</imgPath>
+      </block>
+      <block>
+        <id>25</id>
+        <blockCaption>Dearest </blockCaption>
+        <blockContent>Miss</blockContent>
+        <bolckOrder>0</bolckOrder>
+        <imgPath>5_25.jpg</imgPath>
+      </block>
+      <block>
+        <id>26</id>
+        <blockCaption>M&amp;B</blockCaption>
+        <blockContent>mua</blockContent>
+        <bolckOrder>1</bolckOrder>
+        <imgPath>5_26.jpg</imgPath>
+      </block>
+    </story>
+    <story>
+      <id>6</id>
+      <storyCaption>Boston</storyCaption>
+      <storyTime>2</storyTime>
+      <storyOrder>6</storyOrder>
+      <block>
+        <id>27</id>
+        <blockCaption>Food Food Food</blockCaption>
+        <blockContent>All about food!</blockContent>
+        <bolckOrder>1</bolckOrder>
+        <imgPath>6_27.JPG</imgPath>
+      </block>
+      <block>
+        <id>28</id>
+        <blockCaption>I'm a horse</blockCaption>
+        <blockContent>I really am a horse</blockContent>
+        <bolckOrder>2</bolckOrder>
+        <imgPath>6_28.jpg</imgPath>
+      </block>
+      <block>
+        <id>29</id>
+        <blockCaption>Ocean</blockCaption>
+        <blockContent>I really love oceans...</blockContent>
+        <bolckOrder>3</bolckOrder>
+        <imgPath>6_29.JPG</imgPath>
+      </block>
+    </story>
+  </collage>
+</collages>

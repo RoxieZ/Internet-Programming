@@ -1,0 +1,60 @@
+﻿@model MyStoryMaker.Models.Story
+
+@{
+    ViewBag.Title = "Create";
+}
+
+    <h2>Create</h2>
+
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <h4>Story</h4>
+            <hr />
+            @Html.ValidationSummary(true)
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.storyCaption, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.storyCaption)
+                    @Html.ValidationMessageFor(model => model.storyCaption)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.storyTime, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.storyTime)
+                    @Html.ValidationMessageFor(model => model.storyTime)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.storyOrder, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.storyOrder)
+                    @Html.ValidationMessageFor(model => model.storyOrder)
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Create" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+
+        
+    }
+
+
+    <div>
+        @Html.ActionLink("Back to List", "Index", new { id = @ViewBag.id})
+    </div>
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }

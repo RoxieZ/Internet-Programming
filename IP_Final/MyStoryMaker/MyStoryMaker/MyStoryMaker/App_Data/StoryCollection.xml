@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<collages>
+  <collage>
+    <id>1</id>
+    <collageName>My favorite novels</collageName>
+    <storyId>0</storyId>
+    <storyId>1</storyId>
+  </collage>
+  <collage>
+    <id>2</id>
+    <collageName>Recent trips</collageName>
+    <storyId>3</storyId>
+    <storyId>4</storyId>
+    <storyId>6</storyId>
+  </collage>
+  <collage>
+    <id>3</id>
+    <collageName>Dear ones</collageName>
+    <storyId>2</storyId>
+    <storyId>5</storyId>
+  </collage>
+  <collage>
+    <id>4</id>
+    <collageName>All stories</collageName>
+    <storyId>0</storyId>
+    <storyId>1</storyId>
+    <storyId>2</storyId>
+    <storyId>3</storyId>
+    <storyId>4</storyId>
+    <storyId>5</storyId>
+    <storyId>6</storyId>
+  </collage>
+</collages>

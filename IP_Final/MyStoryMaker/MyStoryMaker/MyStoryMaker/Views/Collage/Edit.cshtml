@@ -1,0 +1,53 @@
+﻿@model MyStoryMaker.Models.Collage
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Collage</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+        @Html.HiddenFor(model => model.id)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.collageName, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.collageName)
+                @Html.ValidationMessageFor(model => model.collageName)
+            </div>
+        </div>
+
+        <div class="form-group">
+        <p style="font-weight:bold; margin-left:85px">Choose your story:</p>
+        @foreach (var item in Model.storyList) {
+            <div style="margin-left:100px">
+                <input name="checkResp" value="@item.id" type="checkbox" />
+                @Html.ActionLink(item.storyCaption, "Index", "Block", new { id = item.id, clgId = ViewBag.id }, null)<br />
+            </div>
+        }
+        </div>
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

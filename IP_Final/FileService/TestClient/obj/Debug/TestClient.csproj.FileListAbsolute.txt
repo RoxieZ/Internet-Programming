@@ -1,0 +1,29 @@
+C:\su\temp\FilesAgain\TestClient\bin\Debug\TestClient.exe.config
+C:\su\temp\FilesAgain\TestClient\bin\Debug\TestClient.exe
+C:\su\temp\FilesAgain\TestClient\bin\Debug\TestClient.pdb
+C:\su\temp\FilesAgain\TestClient\bin\Debug\Newtonsoft.Json.dll
+C:\su\temp\FilesAgain\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\su\temp\FilesAgain\TestClient\obj\Debug\TestClient.exe
+C:\su\temp\FilesAgain\TestClient\obj\Debug\TestClient.pdb
+C:\su\cse686\code\Mvc-WebApi-FileService\TestClient\bin\Debug\TestClient.exe.config
+F:\su\cse686\code\Mvc-WebApi-FileService\TestClient\bin\Debug\TestClient.exe.config
+F:\su\cse686\code\Mvc-WebApi-FileService\TestClient\bin\Debug\TestClient.exe
+F:\su\cse686\code\Mvc-WebApi-FileService\TestClient\bin\Debug\TestClient.pdb
+F:\su\cse686\code\Mvc-WebApi-FileService\TestClient\bin\Debug\Newtonsoft.Json.dll
+F:\su\cse686\code\Mvc-WebApi-FileService\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+F:\su\cse686\code\Mvc-WebApi-FileService\TestClient\obj\Debug\TestClient.exe
+F:\su\cse686\code\Mvc-WebApi-FileService\TestClient\obj\Debug\TestClient.pdb
+C:\Users\Roxie\Desktop\IP Final\FileService\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\Roxie\Desktop\IP Final\FileService\TestClient\bin\Debug\TestClient.exe
+C:\Users\Roxie\Desktop\IP Final\FileService\TestClient\bin\Debug\TestClient.pdb
+C:\Users\Roxie\Desktop\IP Final\FileService\TestClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roxie\Desktop\IP Final\FileService\TestClient\obj\Debug\TestClient.exe
+C:\Users\Roxie\Desktop\IP Final\FileService\TestClient\obj\Debug\TestClient.pdb
+C:\Users\Roxie\Desktop\IP Final\FileService\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\FileService\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\FileService\TestClient\bin\Debug\TestClient.exe
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\FileService\TestClient\bin\Debug\TestClient.pdb
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\FileService\TestClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\FileService\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\FileService\TestClient\obj\Debug\TestClient.exe
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\FileService\TestClient\obj\Debug\TestClient.pdb

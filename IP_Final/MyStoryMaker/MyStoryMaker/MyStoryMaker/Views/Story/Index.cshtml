@@ -1,0 +1,48 @@
+﻿@model IEnumerable<MyStoryMaker.Models.Story>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>
+    <a href="http://localhost:63260/Collage">@ViewBag.collageName</a>
+</h2>
+
+@if (ViewBag.id == 0) { 
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+}
+@if (ViewBag.id != 0) {
+<div style="display: inline; margin-left:800px; height:5px">
+    @Html.ActionLink("Image View", "showImgView", "Block", new { id = @ViewBag.storyId, clgId = @ViewBag.id }, null)
+</div>
+}
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.storyCaption)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.storyTime)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.ActionLink(item.storyCaption, "Index", "Block", new { id = item.id, clgId = ViewBag.id}, null)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.storyTime)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.id }) |
+                @Html.ActionLink("Details", "Details", new { id=item.id }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.id })
+            </td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,48 @@
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\WpfApp_StoryMaker\obj\Debug\WpfApp_StoryMaker.csprojResolveAssemblyReference.cache
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\WpfApp_StoryMaker\obj\Debug\MainWindow.baml
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\WpfApp_StoryMaker\obj\Debug\MainWindow.g.cs
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\WpfApp_StoryMaker\obj\Debug\App.g.cs
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\WpfApp_StoryMaker\obj\Debug\WpfApp_StoryMaker_MarkupCompile.cache
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\WpfApp_StoryMaker\obj\Debug\WpfApp_StoryMaker.g.resources
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\WpfApp_StoryMaker\obj\Debug\WpfApp_StoryMaker.Properties.Resources.resources
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\WpfApp_StoryMaker\obj\Debug\WpfApp_StoryMaker.csproj.GenerateResource.Cache
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\WpfApp_StoryMaker\bin\Debug\WpfApp_StoryMaker.exe.config
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\WpfApp_StoryMaker\bin\Debug\WpfApp_StoryMaker.exe
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\WpfApp_StoryMaker\bin\Debug\WpfApp_StoryMaker.pdb
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\WpfApp_StoryMaker\bin\Debug\TestClient.exe
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\WpfApp_StoryMaker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\WpfApp_StoryMaker\bin\Debug\TestClient.pdb
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\WpfApp_StoryMaker\obj\Debug\WpfApp_StoryMaker.exe
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\WpfApp_StoryMaker\obj\Debug\WpfApp_StoryMaker.pdb
+C:\Users\Roxie\Desktop\IP Final\WpfApp_StoryMaker\bin\Debug\WpfApp_StoryMaker.exe.config
+C:\Users\Roxie\Desktop\IP Final\WpfApp_StoryMaker\obj\Debug\WpfApp_StoryMaker.exe
+C:\Users\Roxie\Desktop\IP Final\WpfApp_StoryMaker\obj\Debug\WpfApp_StoryMaker.pdb
+C:\Users\Roxie\Desktop\IP Final\WpfApp_StoryMaker\bin\Debug\WpfApp_StoryMaker.exe
+C:\Users\Roxie\Desktop\IP Final\WpfApp_StoryMaker\bin\Debug\WpfApp_StoryMaker.pdb
+C:\Users\Roxie\Desktop\IP Final\WpfApp_StoryMaker\bin\Debug\TestClient.exe
+C:\Users\Roxie\Desktop\IP Final\WpfApp_StoryMaker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roxie\Desktop\IP Final\WpfApp_StoryMaker\bin\Debug\TestClient.pdb
+C:\Users\Roxie\Desktop\IP Final\WpfApp_StoryMaker\obj\Debug\WpfApp_StoryMaker.csprojResolveAssemblyReference.cache
+C:\Users\Roxie\Desktop\IP Final\WpfApp_StoryMaker\obj\Debug\MainWindow.baml
+C:\Users\Roxie\Desktop\IP Final\WpfApp_StoryMaker\obj\Debug\MainWindow.g.cs
+C:\Users\Roxie\Desktop\IP Final\WpfApp_StoryMaker\obj\Debug\App.g.cs
+C:\Users\Roxie\Desktop\IP Final\WpfApp_StoryMaker\obj\Debug\WpfApp_StoryMaker_MarkupCompile.cache
+C:\Users\Roxie\Desktop\IP Final\WpfApp_StoryMaker\obj\Debug\WpfApp_StoryMaker.g.resources
+C:\Users\Roxie\Desktop\IP Final\WpfApp_StoryMaker\obj\Debug\WpfApp_StoryMaker.Properties.Resources.resources
+C:\Users\Roxie\Desktop\IP Final\WpfApp_StoryMaker\obj\Debug\WpfApp_StoryMaker.csproj.GenerateResource.Cache
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\WpfApp_StoryMaker\bin\Debug\WpfApp_StoryMaker.exe.config
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\WpfApp_StoryMaker\bin\Debug\WpfApp_StoryMaker.exe
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\WpfApp_StoryMaker\bin\Debug\WpfApp_StoryMaker.pdb
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\WpfApp_StoryMaker\bin\Debug\TestClient.exe
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\WpfApp_StoryMaker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\WpfApp_StoryMaker\bin\Debug\TestClient.pdb
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\WpfApp_StoryMaker\obj\Debug\WpfApp_StoryMaker.csprojResolveAssemblyReference.cache
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\WpfApp_StoryMaker\obj\Debug\MainWindow.baml
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\WpfApp_StoryMaker\obj\Debug\MainWindow.g.cs
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\WpfApp_StoryMaker\obj\Debug\App.g.cs
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\WpfApp_StoryMaker\obj\Debug\WpfApp_StoryMaker_MarkupCompile.cache
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\WpfApp_StoryMaker\obj\Debug\WpfApp_StoryMaker.g.resources
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\WpfApp_StoryMaker\obj\Debug\WpfApp_StoryMaker.Properties.Resources.resources
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\WpfApp_StoryMaker\obj\Debug\WpfApp_StoryMaker.csproj.GenerateResource.Cache
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\WpfApp_StoryMaker\obj\Debug\WpfApp_StoryMaker.exe
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\WpfApp_StoryMaker\obj\Debug\WpfApp_StoryMaker.pdb

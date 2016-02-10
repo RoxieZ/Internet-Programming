@@ -1,0 +1,72 @@
+﻿@{
+    ViewBag.Title = "Upload";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript">
+        var storyId = '@ViewBag.storyId';
+        var blockId = '@ViewBag.blockId'
+        $(document).ready(function () {
+            $("#button1").click(function (evt) {
+                var files = $("#file1").get(0).files;
+                if (files.length > 0) {
+                    var data = new FormData();
+                    for (i = 0; i < files.length; i++) {
+                        data.append("file" + i, files[i]);
+                    }
+                    var url = '@Url.Action("../api/FileUpload")';
+                    url += "?storyId=" + storyId;
+                    url += "&blockId=" + blockId;
+                    $.ajax({
+                        type: "POST",
+                        url: url,
+                        contentType: false,
+                        processData: false,
+                        data: data,
+                        success: function (messages) {
+                            for (i = 0; i < messages.length; i++) {
+                                alert(messages[i]);
+                            }
+                        },
+                        error: function () {
+                            alert("Error while invoking the Web API");
+                        }
+                    });
+                }
+            });
+        });
+
+    function OK() {
+       
+        url = '@Url.Action("Index","Block", new { id = @ViewBag.storyId })';
+        window.location.href = url;
+   
+    }
+
+
+    </script>
+</head>
+
+<body>
+
+    <h2>Upload</h2>
+
+    <div class="form-group">
+        <form>
+            <span>Select image to upload :</span>
+            <input id="file1" name="file1" type="file" />
+            <input id="button1" type="button" value="Upload" />
+        </form>
+    </div>
+
+    <div>
+        @Html.ActionLink("Back to List", "Index", new { id = @ViewBag.storyId, clgId = ViewBag.collageId })
+    </div>
+
+
+</body>
+</html>

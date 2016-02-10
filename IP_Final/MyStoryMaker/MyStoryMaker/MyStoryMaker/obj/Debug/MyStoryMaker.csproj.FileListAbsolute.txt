@@ -1,0 +1,376 @@
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\MyStoryMaker.dll.config
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\MyStoryMaker.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\MyStoryMaker.pdb
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Antlr3.Runtime.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\EntityFramework.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\EntityFramework.SqlServer.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Newtonsoft.Json.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Owin.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\System.Net.Http.Formatting.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\System.Web.Helpers.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\System.Web.Http.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\System.Web.Http.WebHost.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\System.Web.Mvc.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\System.Web.Optimization.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\System.Web.Razor.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\WebGrease.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\System.Web.Helpers.xml
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\System.Web.Mvc.xml
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\System.Web.Optimization.xml
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\System.Web.Razor.xml
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.xml
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Newtonsoft.Json.xml
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Antlr3.Runtime.pdb
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\System.Net.Http.Formatting.xml
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\System.Web.Http.xml
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\System.Web.Http.WebHost.xml
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\EntityFramework.xml
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\EntityFramework.SqlServer.xml
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.xml
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.xml
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\obj\Debug\MyStoryMaker.dll
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\obj\Debug\MyStoryMaker.pdb
+C:\Users\Roxie\Desktop\MyStoryMaker\MyStoryMaker\obj\Debug\MyStoryMaker.csprojResolveAssemblyReference.cache
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\MyStoryMaker.dll.config
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\MyStoryMaker.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\MyStoryMaker.pdb
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Antlr3.Runtime.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\EntityFramework.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\EntityFramework.SqlServer.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Newtonsoft.Json.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Owin.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\System.Net.Http.Formatting.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\System.Web.Helpers.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\System.Web.Http.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\System.Web.Http.WebHost.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\System.Web.Mvc.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\System.Web.Optimization.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\System.Web.Razor.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\WebGrease.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\System.Web.Helpers.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\System.Web.Mvc.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\System.Web.Optimization.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\System.Web.Razor.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Newtonsoft.Json.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Antlr3.Runtime.pdb
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\System.Net.Http.Formatting.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\System.Web.Http.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\System.Web.Http.WebHost.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\EntityFramework.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\EntityFramework.SqlServer.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\obj\Debug\MyStoryMaker.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\obj\Debug\MyStoryMaker.pdb
+C:\Users\Roxie\Desktop\MyStoryMaker(1)_collagesOK\MyStoryMaker\MyStoryMaker\obj\Debug\MyStoryMaker.csprojResolveAssemblyReference.cache
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\MyStoryMaker.dll.config
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\MyStoryMaker.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\MyStoryMaker.pdb
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Antlr3.Runtime.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\EntityFramework.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\EntityFramework.SqlServer.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Newtonsoft.Json.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Owin.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\System.Net.Http.Formatting.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\System.Web.Helpers.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\System.Web.Http.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\System.Web.Http.WebHost.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\System.Web.Mvc.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\System.Web.Optimization.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\System.Web.Razor.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\WebGrease.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\System.Web.Helpers.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\System.Web.Mvc.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\System.Web.Optimization.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\System.Web.Razor.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Newtonsoft.Json.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Antlr3.Runtime.pdb
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\System.Net.Http.Formatting.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\System.Web.Http.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\System.Web.Http.WebHost.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\EntityFramework.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\EntityFramework.SqlServer.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\obj\Debug\MyStoryMaker.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\obj\Debug\MyStoryMaker.pdb
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\bin\ICSharpCode.TextEditorEx.dll
+C:\Users\Roxie\Desktop\MyStoryMaker(3)_ImgOK\MyStoryMaker\MyStoryMaker\obj\Debug\MyStoryMaker.csprojResolveAssemblyReference.cache
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\MyStoryMaker.dll.config
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\MyStoryMaker.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\MyStoryMaker.pdb
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Antlr3.Runtime.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\EntityFramework.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\EntityFramework.SqlServer.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\ICSharpCode.TextEditorEx.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Newtonsoft.Json.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Owin.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Net.Http.Formatting.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Helpers.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Http.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Http.WebHost.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Mvc.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Optimization.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Razor.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\WebGrease.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Helpers.xml
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Mvc.xml
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Optimization.xml
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Razor.xml
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.xml
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Newtonsoft.Json.xml
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Antlr3.Runtime.pdb
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Net.Http.Formatting.xml
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Http.xml
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Http.WebHost.xml
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\EntityFramework.xml
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\EntityFramework.SqlServer.xml
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.xml
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.xml
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\obj\Debug\MyStoryMaker.csprojResolveAssemblyReference.cache
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\obj\Debug\MyStoryMaker.dll
+C:\Users\Roxie\Desktop\New folder\MyStoryMaker\MyStoryMaker\MyStoryMaker\obj\Debug\MyStoryMaker.pdb
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\MyStoryMaker.dll.config
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\MyStoryMaker.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\MyStoryMaker.pdb
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Antlr3.Runtime.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\EntityFramework.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\EntityFramework.SqlServer.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\ICSharpCode.TextEditorEx.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Newtonsoft.Json.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Owin.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Net.Http.Formatting.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Helpers.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Http.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Http.WebHost.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Mvc.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Optimization.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Razor.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\WebGrease.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Helpers.xml
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Mvc.xml
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Optimization.xml
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Razor.xml
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.xml
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Newtonsoft.Json.xml
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Antlr3.Runtime.pdb
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Net.Http.Formatting.xml
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Http.xml
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Http.WebHost.xml
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\EntityFramework.xml
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\EntityFramework.SqlServer.xml
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.xml
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.xml
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\obj\Debug\MyStoryMaker.dll
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\obj\Debug\MyStoryMaker.pdb
+C:\Users\Roxie\Desktop\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\obj\Debug\MyStoryMaker.csprojResolveAssemblyReference.cache
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\MyStoryMaker.dll.config
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\MyStoryMaker.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\MyStoryMaker.pdb
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Antlr3.Runtime.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\EntityFramework.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\EntityFramework.SqlServer.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\ICSharpCode.TextEditorEx.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Newtonsoft.Json.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Owin.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Net.Http.Formatting.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Helpers.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Http.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Http.WebHost.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Mvc.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Optimization.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Razor.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\WebGrease.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Helpers.xml
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Mvc.xml
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Optimization.xml
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Razor.xml
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.xml
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Newtonsoft.Json.xml
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Antlr3.Runtime.pdb
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Net.Http.Formatting.xml
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Http.xml
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\System.Web.Http.WebHost.xml
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\EntityFramework.xml
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\EntityFramework.SqlServer.xml
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.xml
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.xml
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\obj\Debug\MyStoryMaker.csprojResolveAssemblyReference.cache
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\obj\Debug\MyStoryMaker.Migrations.InitialCreate.resources
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\obj\Debug\MyStoryMaker.csproj.GenerateResource.Cache
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\obj\Debug\MyStoryMaker.dll
+C:\Users\Roxie\Desktop\IP Final(9)_inCaseThingsLikeCoke\IP Final\MyStoryMaker\MyStoryMaker\MyStoryMaker\obj\Debug\MyStoryMaker.pdb

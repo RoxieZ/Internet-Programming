@@ -1,0 +1,43 @@
+﻿@model MyStoryMaker.Models.StoryBlock
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>StoryBlock</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.blockCaption)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.blockCaption)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.blockContent)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.blockContent)
+        </dd>
+
+    </dl>
+    <div>
+        <img style="margin-left:4em" src="@Url.Content("..\\..\\Img\\"+ViewBag.storyId + "\\"+Model.imgPath )" width='25%' height='25%' />
+    </div>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index", new { id = @ViewBag.storyId, clgId = ViewBag.collageId })
+        </div>
+    }
+</div>

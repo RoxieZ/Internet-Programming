@@ -1,0 +1,51 @@
+﻿@model IEnumerable<MyStoryMaker.Models.StoryBlock>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .thumbnail {
+            float: left;
+            width: 365px;
+            height: 330px;
+            margin: 6px;
+            border: 2px solid gray;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <h2>
+        @ViewBag.story
+    </h2>
+
+    <p>
+        @Html.ActionLink("List View", "Index", new { id = @ViewBag.storyId, clgId = @ViewBag.collageId })
+    </p>
+
+    @foreach (var item in Model)
+    {
+        <div class="thumbnail">
+            <a href="@Url.Action("Details", "Block", new { id = item.id, styId = ViewBag.storyId}, null)">
+                <img id="Img" src="@Url.Content("..\\..\\Img\\" + ViewBag.storyId + "\\" + item.imgPath)" style="position: relative; height:70%">
+            </a>
+            <div>
+                <div style="font-size: 16px; font-weight: bold; margin:3px">
+                    @Html.DisplayFor(modelItem => item.blockCaption)
+                </div>
+                <div style="font-size: large; margin: 3px">
+                    @Html.DisplayFor(modelItem => item.blockContent)
+                </div>
+            </div>
+        </div>
+    }
+</body>
+</html>
+
+
+
+

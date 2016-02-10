@@ -1,0 +1,55 @@
+﻿@model MyStoryMaker.Models.StoryBlock
+
+@{
+    ViewBag.Title = "Details";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    @*<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+        var id = '@ViewBag.blockId';
+        
+        var fileextension = ".jpg";
+        var url='@Url.Action("GetPic", "Block")';
+            url += "?FolderPath=" + id;
+        
+        $.ajax({
+            url:url,
+            success: function (data) {
+              
+            var base = "http://localhost:63260\\";
+            var path = base+"Img\\" + id + "\\" + data;
+            document.getElementById("img_div").innerHTML=("<img style=\"margin-left:9em\" src='"+path+"' width='20%' height='20%'/>");
+                    
+             }
+            });
+        });
+    </script>*@
+</head>
+<body>
+
+    <h2>@Html.DisplayFor(model => model.blockCaption)</h2>
+
+     <div>
+        <img style="margin-left:9em" src="@Url.Content("..\\..\\Img\\"+ViewBag.storyId + "\\"+Model.imgPath )" width='40%' height='40%' />
+    </div>
+
+    
+
+    <div>
+        <h3>
+            @Html.DisplayFor(model => model.blockContent)
+        </h3>
+    </div>
+
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+        @Html.ActionLink("Back to List", "Index", new { id = @ViewBag.storyId, clgId = ViewBag.collageId })
+    </p>
+
+
+</body>
+</html>

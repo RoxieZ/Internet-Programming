@@ -1,0 +1,113 @@
+﻿@model MyStoryMaker.Models.StoryBlock
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript">
+        var storyId = '@ViewBag.storyId';
+    var blockId = '@ViewBag.blockId'
+    $(document).ready(function () {
+        $("#button1").click(function (evt) {
+            var files = $("#file1").get(0).files;
+            if (files.length > 0) {
+                var data = new FormData();
+                for (i = 0; i < files.length; i++) {
+                    data.append("file" + i, files[i]);
+                }
+                var url = '@Url.Action("../api/FileUpload")';
+                url += "?storyId=" + storyId;
+                url += "&blockId=" + blockId;
+                $.ajax({
+                    type: "POST",
+                    url: url,
+                    contentType: false,
+                    processData: false,
+                    data: data,
+                    success: function (messages) {
+                        for (i = 0; i < messages.length; i++) {
+                            alert(messages[i]);
+                        }
+                    },
+                    error: function () {
+                        alert("Error while invoking the Web API");
+                    }
+                });
+            }
+        });
+    });
+    </script>
+</head>
+<body>
+
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <h4>StoryBlock</h4>
+            <hr />
+            @Html.ValidationSummary(true)
+            @Html.HiddenFor(model => model.id)
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.blockCaption, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.blockCaption)
+                    @Html.ValidationMessageFor(model => model.blockCaption)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.blockContent, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.ValidationMessageFor(model => model.blockContent)
+                    @Html.TextAreaFor(model => model.blockContent, new { @cols = 80, @rows = 10 })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.bolckOrder, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.bolckOrder)
+                    @Html.ValidationMessageFor(model => model.bolckOrder)
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="control-label col-md-2" style="font-weight:bold" > Images </div>
+                <div class="col-md-10" id="imgDisplay">
+                    <img src="@Url.Content("..\\..\\Img\\"+ViewBag.storyId + "\\"+Model.imgPath )" width='20%' height='20%'/>
+                </div>
+                <form>
+                    <span>Change an image :</span>
+                    <input id="file1" name="file1" type="file" />
+                    <input id="button1" type="button" value="Upload" />
+                </form>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Save" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+
+    <div>
+        @Html.ActionLink("Back to List", "Index", new { id = @ViewBag.storyId, clgId = ViewBag.collageId })
+    </div>
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }
+    </body>
+</html>
